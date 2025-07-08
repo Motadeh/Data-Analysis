@@ -1,0 +1,8 @@
+Work_Location,Job_Role,avg_Work_Life_Balance_Rating,no_of_employees
+Hybrid,Sales,3.0823,243
+Hybrid,Marketing,3.0756,225
+Hybrid,"Project Manager",3.0697,244
+Hybrid,Designer,3.0359,251
+Hybrid,"Data Scientist",3.0088,226
+Hybrid,"Software Engineer",2.9471,227
+Hybrid,HR,2.9313,233
